@@ -1,0 +1,128 @@
+p{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#cinza1{
+    background-color: #CCCCCC;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    margin-left: 300px;
+}
+
+#cinza2{
+    background-color: #6B6E74;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    margin-left: 500px;
+}
+
+#cinza3{
+    background-color: #343236;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    margin-left: 700px;
+}
+
+#cinza4{
+    background-color: #1E1E1E;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    margin-left: 900px;
+}
+
+#tc{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    margin: 430px 20px 20px 220px;
+}
+
+#txtc{
+    font-family: 'Arya', sans-serif;
+    margin: 0px 270px 20px 220px;
+}
+
+#tv{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    margin: 50px 20px 20px 220px;
+}
+
+#txtv{
+    font-family: 'Arya', sans-serif;
+    margin: 0px 270px 20px 220px;
+}
+
+#verde1{
+    background-color: #ADCBAC;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 299px;
+}
+
+#verde2{
+    background-color: #7AC878;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 499px;
+}
+
+#verde3{
+    background-color: #447E42;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 699px;
+}
+
+#verde4{
+    background-color: #246A22;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 899px;
+}
+
+#voltar{
+    background-color: #7AC878;
+    width: 300px;
+    height: 40px;
+    margin-top: 50px;
+    border-radius: 20px;
+    margin-left: 510px;
+    position: absolute;
+}
+
+#voltar:hover{
+    background-color: rgb(95, 158, 93);
+}
+
+#txtvolte{
+    text-align: center;
+    color: black;
+    font-family: 'Arya', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    margin: 0px 0px 0px 80px;
+}
+
+#txtvolte:hover{
+    color: black;
+    text-decoration: none;
+    font-family: 'Arya', sans-serif;
+    font-size: 20px;
+    position: absolute;
+}

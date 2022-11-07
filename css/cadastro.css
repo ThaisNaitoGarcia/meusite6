@@ -1,0 +1,99 @@
+body{
+    background-image: url("capacadastro.png");
+    position: relative;
+}
+
+#cadastro{
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+}
+
+#quadrado{
+    width: 40%;
+    height: 450px;
+    margin-left: 400px;
+    background-color: rgb(205, 205, 205);
+    box-shadow: 10px 10px 0px rgb(122,200,120);
+}
+
+#nome{
+    font-size: 25px;
+    margin: 15px 0px 0px 40px;
+    position: absolute;
+    font-weight: bold;
+    font-family: 'Arya', sans-serif;
+}
+
+#fnome{
+    margin: 50px 0px 0px 40px;
+    font-size: 20px;
+    position: absolute;
+}
+
+#email{
+    font-size: 25px;
+    margin: 70px 0px 0px 40px;
+    position: absolute;
+    font-weight: bold;
+    font-family: 'Arya', sans-serif;
+}
+
+#femail{
+    margin: 100px 0px 0px 40px;
+    font-size: 20px;
+    position: absolute;
+}
+
+#pass{
+    font-size: 25px;
+    margin: 115px 0px 0px 40px;
+    position: absolute;
+    font-weight: bold;
+    font-family: 'Arya', sans-serif;
+}
+
+#fpass{
+    margin: 125px 0px 0px 40px;
+    font-size: 20px;
+    position: absolute;
+}
+
+.button{
+    width: 300px;
+    height: 40px;
+    background-color: rgb(122,200,120);
+    position: absolute;
+    margin: 200px 110px;
+    border-radius: 30px;
+}
+
+.button:hover{
+    width: 300px;
+    height: 40px;
+    background-color: rgb(95, 158, 93);
+    position: absolute;
+    margin: 200px 110px;
+    border-radius: 30px;
+    transition: 1s;
+}
+
+#textob{
+    font-family: 'Arya', sans-serif;
+    font-size: 20px;
+    margin: 0px 0px 0px 85px;
+    font-weight: bold;
+}
+
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    transition: all 0.9s;
+    box-shadow: 10px 10px 0px black;
+}
